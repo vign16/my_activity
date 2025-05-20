@@ -88,3 +88,4 @@ Commit 3 on day 2
 Commit 1 on day 1
 Commit 2 on day 1
 Commit 3 on day 1
+Fixing email commit
